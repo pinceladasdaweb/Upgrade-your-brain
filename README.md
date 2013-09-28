@@ -20,6 +20,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [SitePoint](http://www.sitepoint.com/newsletter/)
 * [Developer Shed](http://www.developershed.com/newsletter.php)
 * [The Changelog Weekly](http://thechangelog.com/weekly/)
+* [Startup Edition](http://startupedition.com/)
 
 ## JavaScript
 
