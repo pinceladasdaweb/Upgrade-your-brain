@@ -65,6 +65,9 @@ The definitive list of newsletters to keep up to date on various web development
 ### WordPress
 
 * [WordPress Answers](http://wordpress.stackexchange.com/)
+* [wpMail.me](http://wpmail.me/)
+* [wplift](http://wplift.com/)
+* [wpmunews](http://premium.wpmudev.org)
 
 ## Ruby
 
