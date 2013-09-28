@@ -45,6 +45,10 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [Ember Weekly](http://emberweekly.com/)
 
+### Backbone
+
+* [Backbone.js Weekly](http://backboneweekly.com/)
+
 ## HTML5
 
 * [HTML5 Weekly](http://html5weekly.com/)
