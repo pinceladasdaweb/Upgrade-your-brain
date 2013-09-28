@@ -75,6 +75,10 @@ The definitive list of newsletters to keep up to date on various web development
 * [wplift](http://wplift.com/)
 * [wpmunews](http://premium.wpmudev.org)
 
+## Python
+
+* [Python Weekly](http://www.pythonweekly.com/)
+
 ## Ruby
 
 * [Ruby Weekly](http://rubyweekly.com/)
