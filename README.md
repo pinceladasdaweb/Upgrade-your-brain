@@ -94,3 +94,7 @@ The definitive list of newsletters to keep up to date on various web development
 ## VIM
 
 * [A tiny piece of Vim](http://vimtips.nardi.me)
+
+## NoSQL
+
+* [NoSQL Weekly](http://www.nosqlweekly.com/)
