@@ -21,6 +21,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Developer Shed](http://www.developershed.com/newsletter.php)
 * [The Changelog Weekly](http://thechangelog.com/weekly/)
 * [Startup Edition](http://startupedition.com/)
+* [The Modern Web Observer](http://appendto.com/modern-web-observer/)
 
 ## JavaScript
 
