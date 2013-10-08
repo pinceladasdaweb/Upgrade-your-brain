@@ -22,7 +22,6 @@ The definitive list of newsletters to keep up to date on various web development
 * [The Changelog Weekly](http://thechangelog.com/weekly/)
 * [Startup Edition](http://startupedition.com/)
 * [The Modern Web Observer](http://appendto.com/modern-web-observer/)
-* [CSS-TRICKS](http://css-tricks.com/subscription-options/)
 
 ## JavaScript
 
