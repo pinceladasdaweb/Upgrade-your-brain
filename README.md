@@ -67,6 +67,7 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [PHP Weekly News](http://www.phpweekly.com/)
 * [PHP Weekly](http://phpweekly.info/)
+* [Web & PHP Magazine](http://webandphp.com/)
 
 ### WordPress
 
