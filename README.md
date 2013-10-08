@@ -23,6 +23,11 @@ The definitive list of newsletters to keep up to date on various web development
 * [Startup Edition](http://startupedition.com/)
 * [The Modern Web Observer](http://appendto.com/modern-web-observer/)
 * [CSS-TRICKS](http://css-tricks.com/subscription-options/)
+* [Tableless](http://tableless.com.br/)
+* [John Resig](http://ejohn.org/)
+* [Tutorialzine](http://tutorialzine.com/members/)
+* [InfoQ](http://www.infoq.com/)
+* [Nettuts+](http://net.tutsplus.com/)
 
 ## JavaScript
 
