@@ -50,6 +50,10 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [Backbone.js Weekly](http://backboneweekly.com/)
 
+### Meteor
+
+* [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
+
 ## HTML5
 
 * [HTML5 Weekly](http://html5weekly.com/)
