@@ -54,6 +54,9 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 
+### Task Runner
+* [GruntJS Weekly](https://twitter.com/gruntweekly)
+
 ## HTML5
 
 * [HTML5 Weekly](http://html5weekly.com/)
