@@ -64,6 +64,7 @@ The definitive list of newsletters to keep up to date on various web development
 ## CSS
 
 * [CSS Weekly](http://css-weekly.com/)
+* [Sassnews](http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d)
 
 ## Responsive Design
 
