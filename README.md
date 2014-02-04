@@ -31,6 +31,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
 * [BrazilJS](http://braziljs.org/)
+* [impJS](https://github.com/impJS/impJS-semanal)
 
 ### NodeJS
 
