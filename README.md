@@ -113,6 +113,7 @@ The definitive list of newsletters to keep up to date on various web development
 ## VIM
 
 * [A tiny piece of Vim](http://vimtips.nardi.me)
+* [Vim Weekly](http://www.vimweekly.com/)
 
 ## NoSQL
 
