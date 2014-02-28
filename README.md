@@ -23,6 +23,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Startup Edition](http://startupedition.com/)
 * [The Modern Web Observer](http://appendto.com/modern-web-observer/)
 * [Monocle](http://monocle.io/)
+* [Web Dev Weekly](http://www.webdevweekly.com/)
 
 ## JavaScript
 
