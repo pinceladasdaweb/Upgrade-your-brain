@@ -29,6 +29,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
 * [BrazilJS](http://braziljs.org/)
+* [JavaScript Jabber](http://javascriptjabber.com/)
 
 ### NodeJS
 
