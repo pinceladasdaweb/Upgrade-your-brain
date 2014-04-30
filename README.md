@@ -70,6 +70,9 @@ The definitive list of newsletters to keep up to date on various web development
 * [wpMail.me](http://wpmail.me/)
 * [wplift](http://wplift.com/)
 * [wpmunews](http://premium.wpmudev.org)
+* [TorqueMag](http://torquemag.io/)
+* [ManageWP](https://managewp.com/blog)
+
 
 ## Ruby
 
