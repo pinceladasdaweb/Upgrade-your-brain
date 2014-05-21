@@ -28,6 +28,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Mobile Web Weekly](http://mobilewebweekly.co/)
 * [DB Weekly](http://dbweekly.com/)
 * [Versioning](http://tinyletter.com/versioning)
+* [Maquinário](http://maquinario.co/)
 
 ## JavaScript
 
