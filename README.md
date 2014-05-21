@@ -67,7 +67,13 @@ The definitive list of newsletters to keep up to date on various web development
 
 ## HTML5
 
+### General
+
 * [HTML5 Weekly](http://html5weekly.com/)
+
+### Games
+
+* [Gamedev.js](http://weekly.gamedevjs.com/)
 
 ## CSS
 
