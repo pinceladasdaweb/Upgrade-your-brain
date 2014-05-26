@@ -29,6 +29,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [DB Weekly](http://dbweekly.com/)
 * [Versioning](http://tinyletter.com/versioning)
 * [Maquinário](http://maquinario.co/)
+* [Dicas de front-end](http://dicasdefrontend.com.br/)
 
 ## JavaScript
 
