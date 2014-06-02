@@ -30,6 +30,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Versioning](http://tinyletter.com/versioning)
 * [Maquinário](http://maquinario.co/)
 * [Dicas de front-end](http://dicasdefrontend.com.br/)
+* [Web Dev Break](http://www.webdevbreak.com/) (Weekly screencast for web developers)
 
 ## JavaScript
 
