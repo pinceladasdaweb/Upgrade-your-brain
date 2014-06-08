@@ -116,6 +116,8 @@ The definitive list of newsletters to keep up to date on various web development
 ## Ruby
 
 * [Ruby Weekly](http://rubyweekly.com/)
+* [Ruby Daily](http://paper.rubydaily.org/)
+* [Green Ruby](http://greenruby.org/)
 
 ## Dart
 
