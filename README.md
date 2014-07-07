@@ -87,6 +87,11 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [Responsive Design Weekly](http://responsivedesignweekly.com/)
 
+## UX
+
+* [UX Weekly](http://uxwkly.com/)
+* [MailChimpUX](http://www.theuxnewsletter.com/)
+
 ## PHP
 
 ### General
