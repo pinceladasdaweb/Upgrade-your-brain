@@ -86,6 +86,7 @@ The definitive list of newsletters to keep up to date on various web development
 ## Responsive Design
 
 * [Responsive Design Weekly](http://responsivedesignweekly.com/)
+* [Responsive Web Design](http://responsivewebdesign.com/newsletter/)
 
 ## UX
 
