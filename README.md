@@ -48,6 +48,7 @@ The definitive list of newsletters to keep up to date on various web development
 
 ### AngularJS
 
+* [Adventures in Angular](http://devchat.tv/adventures-in-angular/) (Podcast)
 * [AngularJS Daily](http://www.angularjsdaily.com/)
 * [ng-newsletter](http://www.ng-newsletter.com/)
 * [AngularJS Tutorial](http://www.thinkster.io/AngularTutorial)
