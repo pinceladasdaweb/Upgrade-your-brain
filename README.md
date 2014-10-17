@@ -123,6 +123,7 @@ The definitive list of newsletters to keep up to date on various web development
 ## Python
 
 * [Python Weekly](http://www.pythonweekly.com/)
+* [Pycoder's Weekly](http://pycoders.com/)
 
 ## Ruby
 
