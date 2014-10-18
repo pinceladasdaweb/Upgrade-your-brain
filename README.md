@@ -31,6 +31,8 @@ The definitive list of newsletters to keep up to date on various web development
 * [Maquinário](http://maquinario.co/)
 * [Dicas de front-end](http://dicasdefrontend.com.br/)
 * [Web Dev Break](http://www.webdevbreak.com/) (Weekly screencast for web developers)
+* [Open Web Platform Daily](http://webplatformdaily.org/)
+* [Treehouse Blog Weekly](http://blog.teamtreehouse.com/)
 
 ## JavaScript
 
@@ -86,6 +88,7 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [CSS Weekly](http://css-weekly.com/)
 * [Sassnews](http://sassnews.us7.list-manage.com/subscribe?u=b4a4054cce715a3b0ae5e7d35&id=f7c505323d)
+* [SMACSS Newsletter](http://smacss.com/)
 
 ## Responsive Design
 
@@ -96,6 +99,16 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [UX Weekly](http://uxwkly.com/)
 * [MailChimpUX](http://www.theuxnewsletter.com/)
+
+## Design
+
+### General
+
+* [Speckboy Newsletter](http://speckyboy.com/our-newsletter/)
+
+### UX
+
+* [UX Links](http://www.uxlinks.com.br/)
 
 ## PHP
 
