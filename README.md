@@ -126,6 +126,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Python Weekly](http://www.pythonweekly.com/)
 * [Pycoder's Weekly](http://pycoders.com/)
 * [Django weekly](http://djangoweek.ly/)
+* [Import Python Weekly](http://importpython.com/newsletter/)
 
 ## Ruby
 
