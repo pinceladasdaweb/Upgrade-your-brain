@@ -151,6 +151,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [A tiny piece of Vim](http://vimtips.nardi.me)
 * [Vim Weekly](http://www.vimweekly.com/)
 
-## NoSQL
+## SQL, NoSQL, document databases, graph databases
 
 * [NoSQL Weekly](http://www.nosqlweekly.com/)
+* [DB Weekly](http://dbweekly.com/)
