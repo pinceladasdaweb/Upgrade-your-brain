@@ -32,6 +32,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Dicas de front-end](http://dicasdefrontend.com.br/)
 * [Web Dev Break](http://www.webdevbreak.com/) (Weekly screencast for web developers)
 * [Web Development Reading List](http://wdrl.info/)
+* [Web Operations Weekly](http://webopsweekly.com/)
 
 ## JavaScript
 
