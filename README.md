@@ -33,6 +33,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Web Dev Break](http://www.webdevbreak.com/) (Weekly screencast for web developers)
 * [Web Development Reading List](http://wdrl.info/)
 * [Web Operations Weekly](http://webopsweekly.com/)
+* [Web dev resources from Tutorialzine](http://tutorialzine.com/webdev-newsletter/)
 
 ## JavaScript
 
