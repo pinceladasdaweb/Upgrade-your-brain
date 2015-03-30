@@ -44,6 +44,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [BrazilJS](http://braziljs.org/)
 * [impJS](https://github.com/impJS/impJS-semanal)
 * [JavaScript Jabber](http://javascriptjabber.com/)
+* [Web Components Weekly](http://webcomponentsweekly.me/)
 
 ### NodeJS
 
