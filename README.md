@@ -70,6 +70,10 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 
+### React.js
+
+* [React.js Newsletter](http://reactjsnewsletter.com/)
+
 ### Task Runner
 * [GruntJS Weekly](https://twitter.com/gruntweekly)
 
