@@ -122,7 +122,7 @@ The definitive list of newsletters to keep up to date on various web development
 
 ### Laravel
 
-*[Laravel Weekly](http://laravelweekly.com/)
+* [Laravel Weekly](http://laravelweekly.com/)
 
 ## Go
 
