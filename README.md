@@ -120,6 +120,10 @@ The definitive list of newsletters to keep up to date on various web development
 * [wplift](http://wplift.com/)
 * [wpmunews](http://premium.wpmudev.org)
 
+### Laravel
+
+*[Laravel Weekly](http://laravelweekly.com/)
+
 ## Go
 
 * [Go Newsletter](http://www.golangweekly.com/)
