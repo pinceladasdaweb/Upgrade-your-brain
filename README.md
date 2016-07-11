@@ -46,6 +46,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [JavaScript Jabber](http://javascriptjabber.com/)
 * [Web Components Weekly](http://webcomponentsweekly.me/)
 * [JS Tips](http://www.jstips.co/)
+* [Pony Foo Weekly](https://ponyfoo.com/weekly)
 
 ### NodeJS
 
