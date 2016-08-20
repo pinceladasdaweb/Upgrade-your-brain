@@ -47,6 +47,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Web Components Weekly](http://webcomponentsweekly.me/)
 * [JS Tips](http://www.jstips.co/)
 * [Pony Foo Weekly](https://ponyfoo.com/weekly)
+* [ECMAScript Daily](https://ecmascript-daily.github.io/)
 
 ### NodeJS
 
