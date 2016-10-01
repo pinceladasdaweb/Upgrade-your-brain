@@ -78,6 +78,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [React.js Newsletter](http://reactjsnewsletter.com/)
 * [React Native Newsletter](http://reactnative.cc/)
 * [Rally Coding](http://rallycoding.com/)
+* [React Status](http://react.statuscode.com/)
 
 ### Task Runner
 * [GruntJS Weekly](https://twitter.com/gruntweekly)
