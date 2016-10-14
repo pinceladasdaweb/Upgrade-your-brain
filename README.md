@@ -138,6 +138,7 @@ The definitive list of newsletters to keep up to date on various web development
 ## Go
 
 * [Go Newsletter](http://www.golangweekly.com/)
+* [A Semana Go](https://www.getrevue.co/profile/a-semana-go)
 
 ## Perl
 
