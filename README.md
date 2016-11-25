@@ -84,6 +84,9 @@ The definitive list of newsletters to keep up to date on various web development
 ### Task Runner
 * [GruntJS Weekly](https://twitter.com/gruntweekly)
 
+### Vue
+* [Vue.js Newsletter](http://vue-newsletter.com/)
+
 ### Screencasts
 * [Advanced Javascript Screencasts](http://javascriptcasts.io/)
 
