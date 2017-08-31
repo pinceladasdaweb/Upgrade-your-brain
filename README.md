@@ -48,6 +48,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [JS Tips](http://www.jstips.co/)
 * [Pony Foo Weekly](https://ponyfoo.com/weekly)
 * [ECMAScript Daily](https://ecmascript-daily.github.io/)
+* [HashBang Weekly](http://hashbangweekly.okgrow.com/)
 
 ### NodeJS
 
