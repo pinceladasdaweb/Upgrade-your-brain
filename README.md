@@ -61,6 +61,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [ng-newsletter](http://www.ng-newsletter.com/)
 * [AngularJS Tutorial](http://www.thinkster.io/AngularTutorial)
 * [A Tiny Piece of AngularJS](http://nardi.us1.list-manage.com/subscribe?u=ea0b2abd8b92ac44c600a908c&id=cd39a9459b)
+* [Angular TypeScript Newsletter](http://facebook.us15.list-manage1.com/subscribe?u=9e63a5f6d03e3654b1d10a323&id=8c7f0ee4e1)
 
 ### Ember
 
