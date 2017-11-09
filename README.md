@@ -34,6 +34,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Web Development Reading List](http://wdrl.info/)
 * [Web Operations Weekly](http://webopsweekly.com/)
 * [Web dev resources from Tutorialzine](http://tutorialzine.com/webdev-newsletter/)
+* [Accessibility Weekly] (http://a11yweekly.com/)
 
 ## JavaScript
 
