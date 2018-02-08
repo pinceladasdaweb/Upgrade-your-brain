@@ -186,3 +186,4 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [NoSQL Weekly](http://www.nosqlweekly.com/)
 * [DB Weekly](http://dbweekly.com/)
+* [MongoDB Weekly](https://mongodb.email/)
