@@ -78,14 +78,20 @@ The definitive list of newsletters to keep up to date on various web development
 
 * [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 
-### React.js
+### React
 
 * [React.js Newsletter](http://reactjsnewsletter.com/)
-* [React Native Newsletter](http://reactnative.cc/)
 * [Rally Coding](http://rallycoding.com/)
 * [React Status](http://react.statuscode.com/)
 * [This Week In React](https://thisweekinreact.com/)
 * [React digest](https://reactdigest.net/)
+
+### React Native
+
+* [Awesome React Native](https://mailchi.mp/10df853d5918/awesome-react-native-weekly)
+* [Let's React](http://newsletter.letsreact.io/)
+* [React Native Newsletter](http://reactnative.cc/)
+* [React Native News](https://reactnativenews.curated.co/)
 
 ### Task Runner
 * [GruntJS Weekly](https://twitter.com/gruntweekly)
