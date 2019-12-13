@@ -37,6 +37,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Accessibility Weekly](http://a11yweekly.com/)
 * [Frontend Weekly](http://frontendweekly.co/)
 * [Code with Hugo](https://buttondown.email/hugo)
+* [TLDR](https://www.tldrnewsletter.com/)
 
 ## JavaScript
 
