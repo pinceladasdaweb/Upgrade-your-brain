@@ -86,6 +86,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [React Status](http://react.statuscode.com/)
 * [This Week In React](https://thisweekinreact.com/)
 * [React digest](https://reactdigest.net/)
+* [Enterprise React Newsletter](https://www.digitalprimates.net/enterprise-react/the-enterprise-react-newsletter/)
 
 ### React Native
 
