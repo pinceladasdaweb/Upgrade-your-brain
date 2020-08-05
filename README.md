@@ -53,6 +53,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Pony Foo Weekly](https://ponyfoo.com/weekly)
 * [ECMAScript Daily](https://ecmascript-daily.github.io/)
 * [HashBang Weekly](http://hashbangweekly.okgrow.com/)
+* [ES.next News](http://esnextnews.com/)
 
 ### NodeJS
 
