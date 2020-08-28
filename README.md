@@ -38,6 +38,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Frontend Weekly](http://frontendweekly.co/)
 * [Code with Hugo](https://buttondown.email/hugo)
 * [TLDR](https://www.tldrnewsletter.com/)
+* [Weekly Webtips](https://www.webtips.dev/)
 
 ## JavaScript
 
