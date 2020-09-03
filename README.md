@@ -39,6 +39,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Code with Hugo](https://buttondown.email/hugo)
 * [TLDR](https://www.tldrnewsletter.com/)
 * [Weekly Webtips](https://www.webtips.dev/)
+* [Tech Productivity](https://techproductivity.co/)
 
 ## JavaScript
 
