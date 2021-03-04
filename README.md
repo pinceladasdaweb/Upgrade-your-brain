@@ -206,3 +206,4 @@ The definitive list of newsletters to keep up to date on various web development
 ## Elixir
 
 * [ElixirWeekly](https://elixirweekly.net/)
+* [Elixir Digest](https://elixirdigest.net/)
