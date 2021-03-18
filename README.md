@@ -60,6 +60,7 @@ The definitive list of newsletters to keep up to date on various web development
 ### NodeJS
 
 * [node weekly](http://nodeweekly.com/)
+* [Adventures in Nodeland by Matteo Collina](https://www.getrevue.co/profile/matteocollina)
 
 ### AngularJS
 
