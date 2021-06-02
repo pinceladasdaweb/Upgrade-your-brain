@@ -56,6 +56,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [ECMAScript Daily](https://ecmascript-daily.github.io/)
 * [HashBang Weekly](http://hashbangweekly.okgrow.com/)
 * [ES.next News](http://esnextnews.com/)
+* [Dev Weekly](https://mailchi.mp/f59beeac6b9b/devupdates)
 
 ### NodeJS
 
