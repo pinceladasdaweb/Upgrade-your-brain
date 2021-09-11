@@ -40,6 +40,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [TLDR](https://tldr.tech/)
 * [Weekly Webtips](https://www.webtips.dev/)
 * [Tech Productivity](https://techproductivity.co/)
+* [WebDev with Stefan](https://www.stefanjudis.com/newsletter/)
 
 ## JavaScript
 
