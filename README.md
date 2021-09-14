@@ -58,6 +58,9 @@ The definitive list of newsletters to keep up to date on various web development
 * [HashBang Weekly](http://hashbangweekly.okgrow.com/)
 * [ES.next News](http://esnextnews.com/)
 * [Dev Weekly](https://mailchi.mp/f59beeac6b9b/devupdates)
+* [JavaScript Kicks](https://javascriptkicks.com/)
+* [Awesome JavaScript](https://js.libhunt.com/newsletter)
+* [Bytes](https://bytes.dev/)
 
 ### NodeJS
 
@@ -105,7 +108,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [GruntJS Weekly](https://twitter.com/gruntweekly)
 
 ### Vue
-* [Vue.js Newsletter](http://vue-newsletter.com/)
+* [Vue.js News](https://news.vuejs.org/)
 
 ### Screencasts
 * [Advanced Javascript Screencasts](http://javascriptcasts.io/)
