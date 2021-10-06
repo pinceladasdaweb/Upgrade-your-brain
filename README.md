@@ -41,6 +41,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [Weekly Webtips](https://www.webtips.dev/)
 * [Tech Productivity](https://techproductivity.co/)
 * [WebDev with Stefan](https://www.stefanjudis.com/newsletter/)
+* [The Tech Caffeine](https://tanmaydeshpande.substack.com/)
 
 ## JavaScript
 
