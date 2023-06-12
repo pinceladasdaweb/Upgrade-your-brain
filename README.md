@@ -62,6 +62,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [JavaScript Kicks](https://javascriptkicks.com/)
 * [Awesome JavaScript](https://js.libhunt.com/newsletter)
 * [Bytes](https://bytes.dev/)
+* [Browsertech Digest](https://digest.browsertech.com/)
 
 ### NodeJS
 
