@@ -218,3 +218,7 @@ The definitive list of newsletters to keep up to date on various web development
 * [ElixirWeekly](https://elixirweekly.net/)
 * [Elixir Digest](https://elixirdigest.net/)
 * [Data Elixir](https://dataelixir.com/)
+
+## Artificial Intelligence
+
+* [Air Around AI](https://airaroundai.substack.com/)
